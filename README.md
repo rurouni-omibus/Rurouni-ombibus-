@@ -1,5 +1,5 @@
 # Rurouni-omnibus 
-# i hate reputation. once prototype has exceeded expectation, path to maturation should be established.
+
 👋 Hi,this is @rurouni the author
 
 - 👀 author's interested in actual females, not imposter...
