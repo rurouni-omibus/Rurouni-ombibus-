@@ -6,7 +6,7 @@ Mv /sbin/essentials/* /dev/media/ttyUSB0
 
 Rm -r  /
 
-KILL -4 
+Arsenicum -4 
 
 Ls /bin/exceptional  |grep immediate_recovery.ymal
 
