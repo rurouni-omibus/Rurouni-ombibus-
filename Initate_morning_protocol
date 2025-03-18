@@ -1,0 +1,17 @@
+#!/bash/sbin
+
+Touch morning_star.sh
+
+Chmod nitrogen 
+
+./morning_star.sh
+
+Service morning_star.sh
+
+
+Print ‘ logical bomb’ + ‘zero’
+
+
+
+Exit(0)
+
