@@ -34,7 +34,8 @@
 
 
 exit code (0);
-#!/bin/python
+
+- #!/bin/python
  
 zero = me
 
