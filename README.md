@@ -1,12 +1,12 @@
 # Rurouni-omnibus 
 
-👋 Hi,this is @rurouni the author
+👋 Hi,this is me @rurouni
 
-- 👀 author's interested in actual females, not imposter...
+- 👀 Me interested in actual females, not imposter...
 
-- 🌱 author's currently rewriting the fabric of the universe...
+- 🌱 Me currently rewriting the fabric of the universe...
 
-- 💞️ Author looking to collaborate on embedded synergy ...
+- 💞️ Me looking to collaborate on embedded synergy ...
 
 - 📫 IYKYK ...
 
@@ -14,25 +14,32 @@
 
 - ⚡ Fun fact: Author Solo freestyle rock climb...
 
-- Author from Gallifrey, but hold Current
-- Author resident on Pluto.
-- author Vista fedual era earth regularly.
+- Me from Gallifrey, but hold Current
+- Me resident on Pluto.
+- Me Vista fedual era earth regularly.
 
-- Author Biological: Male
+- Me Biological: Male
 
-- Author sexual orientation: Asexual due to removal of Biological females.
+- Me sexual orientation: Asexual due to removal of Biological females.
 
-- Author Gender = Qbit
-
-
+- Me Gender = Qbit
 
 
 
-- unlike others from Gallifrey,the author is more spectrum than dimensional. meaning the author exist in your spacial time, but the author partitioned1.(hence you can't replace,reposition,nor remove). the author can not be found on any  acquisition list.* since they still haven't figured that out at this point 😑* 
+
+
+- unlike others from Gallifrey, me is more spectrum than dimensional. meaning me exist in your spacial time, but partitioned.(hence you can't replace,reposition,nor remove). Me can not be found on any  acquisition list.* since they still haven't figured that out at this point 😑* 
 
 --not for sale--
 
+
 exit code (0);
+#!/bin/python
+ 
+zero = me
+
+print "affirmation of" + zero "audile"
+
 
 <!---
 
